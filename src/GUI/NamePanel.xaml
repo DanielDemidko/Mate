@@ -1,0 +1,12 @@
+﻿<DockPanel x:Class="NamePanel"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Background="Transparent">
+	<Button x:FieldModifier="public" x:Name="ButtonName" Background="Transparent" BorderBrush="Transparent" HorizontalContentAlignment="Left">
+		<Button.Content>
+			<WrapPanel>
+				<Image x:FieldModifier="private" x:Name="ViewImage" Width="35" Height="35"/>
+				<TextBlock x:FieldModifier="private" x:Name="ViewName" VerticalAlignment="Center" Background="Transparent" FontSize="15" FontFamily="Gabudi"/>
+			</WrapPanel>
+		</Button.Content>
+	</Button>
+</DockPanel>
