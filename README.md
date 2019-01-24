@@ -1,4 +1,4 @@
 ## Mate
 Free windows filemanager
 ### About
-Это очень старый проект. Он был создан намного раньше чем заргужен на гитхаб. Это память :)
+This is a very old project. It was created much earlier than it was loaded onto a githab. This is a memory :)
